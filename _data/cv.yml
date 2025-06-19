@@ -4,21 +4,20 @@
     - name: Name
       value: Yuan-Hung Kuan
     - name: Email
-      value: hung662838@gmail.com
-      value: k.yuan-hung@wustl.edu
+      value: <a href="mailto:hung662838@gmail.com">hung662838@gmail.com</a> or <a href="mailto:k.yuan-hung@wustl.edu">k.yuan-hung@wustl.edu</a>
     - name: Phone
-      value: 3143661297
+      value: <a href="tel:+13143661297">3143661297</a>
     - name: Url
-      value: https://kuanyuanhung.github.io/
+      value: <a href="https://kuanyuanhung.github.io/">https://kuanyuanhung.github.io/</a>
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: Washington University in St. Louis
-      year: 1905
+      year: 2020 - present
       description:
-        - Description 1.
+        - System Science & Mathematics
         - Description 2.
         - title: Description 3.
           contents:
