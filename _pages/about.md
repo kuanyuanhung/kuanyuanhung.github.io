@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [WashU Electrical & Systems Engineering]<a href='#'>https://ese.washu.edu/index.html</a>. 
+subtitle: <a href="https://ese.wustl.edu/index.html">WashU Electrical & Systems Engineering</a>. 
 
 profile:
   align: left
