@@ -25,5 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+About me:
+
 My name is Yuan-Hung Kuan (官苑閎). I received my bachelor's degrees from National Taiwan University in 2019. I am currently a fifth-year Ph.D. student in the Applied Mathematics Lab (System Science and Mathematics program) at Washington University in St. Louis. My research interests include control theory and dynamical systems, optimization, learning and numerical methods in data science.
 
