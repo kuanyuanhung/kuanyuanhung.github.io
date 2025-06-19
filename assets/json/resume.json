@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Yuan-Hung Kuan",
+    "label": "",
+    "image": prof_pic.jpg,
+    "email": "hung662838@gmail.com",
+    "phone": "3143661297",
+    "url": "https://kuanyuanhung.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "63124",
+      "city": "St. Louis",
       "countryCode": "US",
-      "region": "California"
+      "region": "MO"
     },
     "profiles": [
       {
