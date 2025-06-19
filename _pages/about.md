@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Yuan-Hung Kuan
 permalink: /
-subtitle: <a href='#'>https://ese.washu.edu/index.html</a>. WashU Electrical & Systems Engineering
+subtitle: <a href='#'>[WashU Electrical & Systems Engineering]https://ese.washu.edu/index.html</a>. 
 
 profile:
   align: left
