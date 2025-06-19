@@ -3,10 +3,13 @@
   contents:
     - name: Full Name
       value: Yuan-Hung Kuan
-    - name: Date of Birth
-      value: 25 November 1996
-    - name: Languages
-      value: English, German
+    - name: Email
+      value: hung662838@gmail.com
+      value: k.yuan-hung@wustl.edu
+    - name: Phone
+      value: 3143661297
+    - name: Url
+      value: https://kuanyuanhung.github.io/
 
 - title: Education
   type: time_table
