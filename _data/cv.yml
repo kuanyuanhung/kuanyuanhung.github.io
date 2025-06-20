@@ -13,12 +13,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Washington University in St. Louis (WashU)
+    - title: <a href="https://ese.washu.edu/academics/graduate-programs/doctoral/PhD-in-Electrical-Engineering.html/">PhD</a>
+      institution: <a href="https://washu.edu/">Washington University in St. Louis (WashU)</a>
       year: 2020 - present
       location: St. Louis, USA
       description:
-        - Electrical & Systems Engineering (System Science & Mathematics)
+        - <a href="https://ese.washu.edu/academics/graduate-programs/doctoral/PhD-in-Electrical-Engineering.html/">Electrical & Systems Engineering (System Science & Mathematics)</a>
     - title: Bachelor
       institution: National Taiwan University (NTU)
       year: 2015 - 2019
