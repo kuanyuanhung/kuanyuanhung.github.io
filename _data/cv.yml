@@ -31,6 +31,19 @@
         - Major in Department of Bioenvironmental Systems Engineering (BSE)
         - Minor in Department of Mathematics (MATH)
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Lee B. Lusted Student Award Finalist 
+    - year: 2023, 2024
+      items:
+        - The McKelvey Engineering Professional Development Award
+    - year: 2023
+      items:
+        - The Outstanding Graduate Student Assistant to the Instructor Award 
+        
 - title: Experience
   type: time_table
   contents:
@@ -71,16 +84,7 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+
 
 - title: Academic Interests
   type: nested_list
