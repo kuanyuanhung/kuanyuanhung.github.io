@@ -14,7 +14,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Washington University in St. Louis
+      institution: Washington University in St. Louis (WashU)
       year: 2020 - present
       location: St. Louis, USA
       description:
@@ -24,12 +24,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor
+      institution: National Taiwan University (NTU)
+      year: 2015 - 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Major in Department of Bioenvironmental Systems Engineering (BSE)
+        - Minor in Department of Mathematics (MATH)
 
 - title: Experience
   type: time_table
