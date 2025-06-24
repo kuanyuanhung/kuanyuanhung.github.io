@@ -412,15 +412,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-the-recipient-of-the-outstanding-graduate-student-assistant-to-the-instructor-award-at-washington-university-in-st-louis",
+          title: 'The recipient of the Outstanding Graduate Student Assistant to the Instructor Award at...',
+          description: "",
+          section: "News",},{id: "news-our-recent-work-was-selected-as-the-lee-b-lusted-student-award-finalist-in-the-46th-society-for-medical-decision-making-smdm-annual-north-american-meeting",
+          title: 'Our recent work was selected as the Lee B. Lusted Student Award Finalist...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-recent-work-quot-iterative-reservoir-computing-networks-for-reconstructing-irregular-time-series-quot-was-accepted-in-ieee-transactions-on-neural-networks-and-learning-systems-tnnls",
+          title: 'Our recent work &amp;quot;Iterative Reservoir Computing Networks for Reconstructing Irregular Time Series&amp;quot; was...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
