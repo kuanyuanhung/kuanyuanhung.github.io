@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -26,4 +26,6 @@ latest_posts:
 ---
 
 My name is Yuan-Hung Kuan (官苑閎). I received my bachelor's degrees from National Taiwan University in 2019. I am currently a fifth-year Ph.D. student in the Applied Mathematics Lab (System Science and Mathematics program) at Washington University in St. Louis. My research interests include control theory and dynamical systems, optimization, learning and numerical methods in data science.
+
+Links: <a href="https://kuanyuanhung.github.io/assets/pdf/example_pdf.pdf">CV</a>, Orcid ID: 0009-0002-3641-980X, Google Scholar
 
