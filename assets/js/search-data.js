@@ -412,18 +412,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-the-recipient-of-the-outstanding-graduate-student-assistant-to-the-instructor-award-at-washington-university-in-st-louis",
-          title: 'The recipient of the Outstanding Graduate Student Assistant to the Instructor Award at...',
-          description: "",
-          section: "News",},{id: "news-our-recent-work-was-selected-as-the-lee-b-lusted-student-award-finalist-in-the-46th-society-for-medical-decision-making-smdm-annual-north-american-meeting",
-          title: 'Our recent work was selected as the Lee B. Lusted Student Award Finalist...',
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
