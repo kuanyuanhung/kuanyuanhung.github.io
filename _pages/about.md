@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,5 +27,5 @@ latest_posts:
 
 My name is Yuan-Hung Kuan (官苑閎). I received my bachelor's degrees from National Taiwan University in 2019. I am currently a fifth-year Ph.D. student in the Applied Mathematics Lab (System Science and Mathematics program) at Washington University in St. Louis. My research interests include control theory and dynamical systems, optimization, learning and numerical methods in data science.
 
-Links: <a href="https://kuanyuanhung.github.io/assets/pdf/example_pdf.pdf">CV</a>, Orcid ID: <a href="https://orcid.org/0009-0002-3641-980X">0009-0002-3641-980X</a>, <a href="https://scholar.google.com/kuanyuanhung">Google Scholar</a>, Email: <a href="mailto:hung662838@gmail.com">hung662838@gmail.com</a> or <a href="mailto:k.yuan-hung@wustl.edu">k.yuan-hung@wustl.edu</a>, Phone: <a href="tel:+13143661297">3143661297</a>, Url: <a href="https://kuanyuanhung.github.io/">https://kuanyuanhung.github.io/</a>
+Links: <a href="https://kuanyuanhung.github.io/assets/pdf/example_pdf.pdf">CV</a>, Orcid ID: <a href="https://orcid.org/0009-0002-3641-980X">0009-0002-3641-980X</a>, <a href="https://scholar.google.com/kuanyuanhung">Google Scholar</a>, Email: <a href="mailto:hung662838@gmail.com">hung662838@gmail.com</a> or <a href="mailto:k.yuan-hung@wustl.edu">k.yuan-hung@wustl.edu</a>
 
