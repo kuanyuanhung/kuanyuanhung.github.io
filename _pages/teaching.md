@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+All positions are affilated with Washington University in St. Louis.
 
-Organize your courses by years, topics, or universities, however you like!
+- Teaching Assistant for ESE 551: Linear Dynamic Systems 
+- Teaching Assistant for ESE 415: Optimization
+- Teaching Assistant for ESE 5581: Advanced Systems Science for Learning and Control of Complex Dynamic Systems
