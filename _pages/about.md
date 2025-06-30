@@ -29,5 +29,5 @@ My name is Yuan-Hung Kuan (官苑閎). I am currently a Ph.D. student in the App
 
 I received my bachelor's degrees (major in systems engineering and minor in mathematics) from National Taiwan University in 2019 and I was a visiting summer intern at WashU in 2019.
 
-Links: <a href="https://kuanyuanhung.github.io/assets/pdf/example_pdf.pdf">CV</a>, Orcid ID: <a href="https://orcid.org/0009-0002-3641-980X">0009-0002-3641-980X</a>, <a href="https://scholar.google.com/kuanyuanhung">Google Scholar</a>, Email: <a href="mailto:hung662838@gmail.com">hung662838@gmail.com</a> or <a href="mailto:k.yuan-hung@wustl.edu">k.yuan-hung@wustl.edu</a>
+Links: <a href="https://kuanyuanhung.github.io/assets/pdf/example_pdf.pdf">CV</a>, Orcid ID: <a href="https://orcid.org/0009-0002-3641-980X">0009-0002-3641-980X</a>, <a href="https://dblp.org/pid/119/1668">dblp</a>, <a href="https://scholar.google.com/kuanyuanhung">Google Scholar</a>, Email: <a href="mailto:hung662838@gmail.com">hung662838@gmail.com</a> or <a href="mailto:k.yuan-hung@wustl.edu">k.yuan-hung@wustl.edu</a>
 
