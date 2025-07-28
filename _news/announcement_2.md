@@ -6,7 +6,4 @@ inline: false
 related_posts: false
 ---
 
-In person <a href="https://smdm.org/meeting/smdm-46th-annual-meeting">The 46th Society for Medical Decision Making (SMDM) Annual North American Meeting</a> from October 27-30, 2024 at Boston, MA, USA
-
-Our work "A novel deep reservoir computing method to impute electrocardiography for risk prediction models assisting medical decision making," was selected as the Lee B. Lusted Student Award Finalist in The 46th Society for
-Medical Decision Making (SMDM) Annual North American Meeting, Boston, USA
+Our work "A novel deep reservoir computing method to impute electrocardiography for risk prediction models assisting medical decision making," was selected as the Lee B. Lusted Student Award Finalist in <a href="https://smdm.org/meeting/smdm-46th-annual-meeting">The 46th Society for Medical Decision Making (SMDM) Annual North American Meeting (October 27-30, 2024)</a>, Boston, USA
