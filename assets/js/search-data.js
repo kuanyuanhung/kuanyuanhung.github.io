@@ -406,6 +406,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-attending-and-presenting-at-ieee-conference-on-decision-and-control-cdc-2024",
+          title: 'Attending and presenting at IEEE Conference on Decision and Control (CDC 2024)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
             },},{id: "news-our-recent-work-quot-iterative-reservoir-computing-networks-for-reconstructing-irregular-time-series-quot-was-accepted-in-ieee-transactions-on-neural-networks-and-learning-systems-tnnls",
           title: 'Our recent work &amp;quot;Iterative Reservoir Computing Networks for Reconstructing Irregular Time Series&amp;quot; was...',
           description: "",
