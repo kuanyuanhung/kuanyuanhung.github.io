@@ -411,6 +411,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-attending-and-presenting-at-siam-conference-on-control-and-its-applications-ct25",
+          title: 'Attending and presenting at SIAM Conference on Control and Its Applications (CT25)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
