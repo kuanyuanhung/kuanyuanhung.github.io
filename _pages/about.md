@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Yuan-Hung Kuan (官苑閎). I am currently a Ph.D. student in the Applied Mathematics Lab (System Science and Mathematics program) at Washington University in St. Louis, advised by Prof. Jr-Shin Li. My research interests include control theory and dynamical systems, optimization, learning and numerical methods in data science.
+My name is Yuan-Hung Kuan (官苑閎). I am currently a Ph.D. student in the Applied Mathematics Lab (System Science and Mathematics program) at Washington University in St. Louis, advised by Prof. <a href="https://sites.wustl.edu/jsli/home/">Jr-Shin Li</a>. My research interests include control theory and dynamical systems, optimization, learning and numerical methods in data science.
 
 I received my bachelor's degrees (major in systems engineering and minor in mathematics) from National Taiwan University in 2019 and I was a visiting summer intern at WashU in 2019.
 
