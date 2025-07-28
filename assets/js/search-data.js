@@ -416,8 +416,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-our-recent-work-iterative-reservoir-computing-networks-for-reconstructing-irregular-time-series-was-accepted-in-ieee-transactions-on-neural-networks-and-learning-systems-tnnls",
+          title: 'Our recent work “Iterative Reservoir Computing Networks for Reconstructing Irregular Time Series” was...',
           description: "",
           section: "News",},{id: "news-attending-and-presenting-at-siam-conference-on-control-and-its-applications-ct25",
           title: 'Attending and presenting at SIAM Conference on Control and Its Applications (CT25)',
