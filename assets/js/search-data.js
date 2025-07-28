@@ -409,7 +409,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
-            },},{id: "news-attending-and-presenting-at-the-46th-society-for-medical-decision-making-smdm-annual-north-american-meeting-the-lee-b-lusted-student-award-finalist",
+            },},{id: "news-our-recent-work-optimal-quantum-control-using-ensemble-quantization-was-accepted-in-siam-journal-on-control-and-optimization-jco",
+          title: 'Our recent work “Optimal Quantum Control using Ensemble Quantization” was accepted in SIAM...',
+          description: "",
+          section: "News",},{id: "news-attending-and-presenting-at-the-46th-society-for-medical-decision-making-smdm-annual-north-american-meeting-the-lee-b-lusted-student-award-finalist",
           title: 'Attending and presenting at The 46th Society for Medical Decision Making (SMDM) Annual...',
           description: "",
           section: "News",handler: () => {
