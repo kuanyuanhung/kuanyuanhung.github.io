@@ -406,8 +406,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
-            },},{id: "news-our-recent-work-was-selected-as-the-lee-b-lusted-student-award-finalist-in-the-46th-society-for-medical-decision-making-smdm-annual-north-american-meeting",
-          title: 'Our recent work was selected as the Lee B. Lusted Student Award Finalist...',
+            },},{id: "news-attending-and-presenting-at-the-46th-society-for-medical-decision-making-smdm-annual-north-american-meeting-the-lee-b-lusted-student-award-finalist",
+          title: 'Attending and presenting at The 46th Society for Medical Decision Making (SMDM) Annual...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
