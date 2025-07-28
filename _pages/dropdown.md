@@ -3,7 +3,7 @@ layout: page
 title: others
 nav: false
 nav_order: 8
-dropdown: true
+dropdown: false
 children:
   - title: repositories
     permalink: /repositories/
