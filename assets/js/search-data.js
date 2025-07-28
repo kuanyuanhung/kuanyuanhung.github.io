@@ -401,7 +401,12 @@ ninja.data = [{
             },},{id: "news-the-recipient-of-the-outstanding-graduate-student-assistant-to-the-instructor-award-at-washington-university-in-st-louis",
           title: 'The recipient of the Outstanding Graduate Student Assistant to the Instructor Award at...',
           description: "",
-          section: "News",},{id: "news-our-recent-work-was-selected-as-the-lee-b-lusted-student-award-finalist-in-the-46th-society-for-medical-decision-making-smdm-annual-north-american-meeting",
+          section: "News",},{id: "news-attending-and-presenting-at-ieee-conference-on-decision-and-control-cdc-2023",
+          title: 'Attending and presenting at IEEE Conference on Decision and Control (CDC 2023)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
+            },},{id: "news-our-recent-work-was-selected-as-the-lee-b-lusted-student-award-finalist-in-the-46th-society-for-medical-decision-making-smdm-annual-north-american-meeting",
           title: 'Our recent work was selected as the Lee B. Lusted Student Award Finalist...',
           description: "",
           section: "News",handler: () => {
