@@ -398,7 +398,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-recipient-of-the-outstanding-graduate-student-assistant-to-the-instructor-award-at-washington-university-in-st-louis",
+            },},{id: "news-our-recent-work-moment-quantization-of-inhomogeneous-spin-ensembles-was-accepted-in-annual-review-in-controls-arc",
+          title: 'Our recent work “Moment quantization of inhomogeneous spin ensembles” was accepted in Annual...',
+          description: "",
+          section: "News",},{id: "news-the-recipient-of-the-outstanding-graduate-student-assistant-to-the-instructor-award-at-washington-university-in-st-louis",
           title: 'The recipient of the Outstanding Graduate Student Assistant to the Instructor Award at...',
           description: "",
           section: "News",},{id: "news-attending-and-presenting-at-ieee-conference-on-decision-and-control-cdc-2023",
