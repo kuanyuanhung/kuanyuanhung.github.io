@@ -13,5 +13,3 @@ All positions are affilated with Washington University in St. Louis.
 - Teaching Assistant for ESE 415: Optimization
 - Teaching Assistant for ESE 5581: Advanced Systems Science for Learning and Control of Complex Dynamic Systems
 
-// Materials:
-// - Linear algebra review: <a href="https://kuanyuanhung.github.io/assets/pdf/linearalgebrareview.pdf">pdf</a>
